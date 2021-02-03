@@ -1,7 +1,7 @@
 //need to set up imports to create the app: react, header & table
 import React from 'react';
-import Header from "./components/Header/header";
-import Table from "./components/Table/table";
+import Header from "./components/header/header";
+import Table from "./components/table/table";
 
 function App() {
   return (

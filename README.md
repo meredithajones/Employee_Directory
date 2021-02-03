@@ -60,8 +60,6 @@ In order to run the application, open the server.js file in integrated terminal,
 
 * 
 
-* 
-* 
 	
 
 </details>
