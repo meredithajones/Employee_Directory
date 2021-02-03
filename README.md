@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub repo size](https://img.shields.io/github/repo-size/meredithajones/Employee_Directory?logo=github)
+![GitHub top language](https://img.shields.io/github/languages/top/meredithajones/Employee_Directory?color=green&logo=github&logoColor=green)
+![GitHub language count](https://img.shields.io/github/languages/count/meredithajones/Employee_Directory)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![html badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![express.js badge](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![node.js badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![heroku badge](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+-[Introduction](#Introduction)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+-[Technology](#Technologies)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+-[Screenshots](#Screenshots)
+   
+-[Usage](#Usage)
 
-### `npm test`
+-[Credits](#Credits)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-[Contact](#Contact)
 
-### `npm run build`
+-[License](#License) 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Links
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* [Deployed Link]()
 
-### `npm run eject`
+## Introduction
+ 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage 
+In order to run the application, open the server.js file in integrated terminal, run "npm install" to install dependencies, and then run "node server.js".
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Screen Shots
+![“”]()
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![“”]()
 
-## Learn More
+![“"]()
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Technologies
+<details>
+<summary>Technology used to create application</summary>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* 
 
-### Making a Progressive Web App
+* Inquirer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* Nodejs
 
-### Advanced Configuration
+* 
+* 
+	
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+</details>
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Project Challenges
+*   
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Credits
+
+* [Stack Overflow general research](https://stackoverflow.com/) 
+* [Mdn web docs general research](https://developer.mozilla.org/en-US/)
+* [AskBCS bug fixes]
+* [Mdn web docs general research](https://developer.mozilla.org/
+
+## Author
+ Meredith Jones
+
+## Contact
+ [@MeredithJones](https://github.com/meredithajones)
+
+## License 
+This project is licensed under the terms of the MIT license.
