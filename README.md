@@ -72,7 +72,7 @@ In order to run the application, open the server.js file in integrated terminal,
 
 ## Credits
 
-* [Stack Overflow general research](https://stackoverflow.com/) 
+* [React Dev Docs: Create React App, Folder Structure](https://create-react-app.dev/docs/folder-structure/) 
 * [Mdn web docs general research](https://developer.mozilla.org/en-US/)
 * [AskBCS bug fixes]
 * [Mdn web docs general research](https://developer.mozilla.org/
