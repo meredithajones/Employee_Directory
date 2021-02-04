@@ -3,13 +3,13 @@ import React from 'react';
 import Header from "./components/header/header";
 import Table from "./components/table/table";
 
-function App() {
+const App = () => {
   return (
-    <div>
+    <div className= 'container' >
       <Header />
       <Table /> 
     </div>
-  );
+  )
 }
 
 export default App;
