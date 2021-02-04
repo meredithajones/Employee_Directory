@@ -8,7 +8,7 @@ import Data from "./Data";
 class Table extends React.Component {
     state = {
       search: "",
-      className: "fas fa-arrow-square-up",
+      className: "fas fa-chevron-circle-up",
       originalUsers: [],
       filteredUsers: [],
     };
@@ -18,7 +18,7 @@ class Table extends React.Component {
     this.usersArr();
   }
 
-  //API call to users from the random generator
+  //API call to get users from the random generator
   usersArr = () => {
     API.getUsers()
       .then(res => this.setState({ originalUsers: res.data.results, filteredUsers: res.data.results }))
@@ -32,5 +32,28 @@ class Table extends React.Component {
         this.setState({
           [name]: value
         });
+
+   //If nothing is searched, display original users
+    if (value === "") {
+        this.setState({ filteredUsers: this.state.originalUsers })
+        //Else if there is anything typed in, the users will start being filtered
+      } else if (value !== "") {
+        const filteredUsers = this.state.originalUsers.filter(data =>
+          data.name.first.toLowerCase().startsWith(value.toLowerCase()) || data.name.last.toLowerCase().startsWith(value.toLowerCase()) || (`${data.name.first} ${data.name.last}`).toLowerCase().startsWith(value.toLowerCase())
+        );
+        this.setState({ filteredUsers });
+      }
+    };
+  
+    //Setting up the function to change the className
+    className = (className) => {
+        //Sorted asscending
+      if(className === "fas fa-chevron-circle-up"){
+          //Sorted descending
+        this.setState({ className: "fas fa-chevron-circle-down" })
+      } else if(className === "fas fa-chevron-circle-down"){
+        this.setState({ className: "fas fa-chevron-circle-up" })
+      }
+    }
 //export
 export default Table;
