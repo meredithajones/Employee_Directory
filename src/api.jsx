@@ -1,9 +1,7 @@
+import axios from "axios";
 
-$.ajax({
-    
-    url: 'https://randomuser.me/api/',
-    dataType: 'json',
-    success: function(data) {
-      console.log(data);
+export default {
+    getUsers: function () {
+      return axios.get("https://randomuser.me/api/?results=10")
     }
-  });
+  }
