@@ -71,6 +71,7 @@ In order to run the application, open the server.js file in integrated terminal,
 
 ## Credits
 
+* [React Bootstrap Components Docs: Tables](https://react-bootstrap.github.io/components/table/)
 * [React Dev Docs: Create React App, Folder Structure](https://create-react-app.dev/docs/folder-structure/) 
 * [Mdn web docs general research](https://developer.mozilla.org/en-US/)
 * [AskBCS bug fixes]
