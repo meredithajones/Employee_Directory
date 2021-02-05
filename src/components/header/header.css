@@ -1,0 +1,8 @@
+.header {
+    text-align: center;
+    background-color:black;
+    color: rgb(18, 45, 27);
+    border: solid 8px;
+    border-color: rgb(57, 127, 112);
+    outline:black solid 7px;
+  }
