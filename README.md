@@ -33,7 +33,7 @@
 
 ## Links
 
-* [Deployed Link]()
+* [Deployed Link](https://meredithajones.github.io/Employee_Directory/)
 
 ## Introduction
  This application is built for anyone working in a company who would like to have an easy, accessable directory to view the current staff.
