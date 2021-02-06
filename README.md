@@ -1,3 +1,6 @@
+# Staff Directory 
+***
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub repo size](https://img.shields.io/github/repo-size/meredithajones/Employee_Directory?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/meredithajones/Employee_Directory?color=green&logo=github&logoColor=green)
@@ -9,7 +12,7 @@
 ![react badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![node.js badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![heroku badge](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+
 
 ## Table of Contents
 
@@ -33,18 +36,26 @@
 * [Deployed Link]()
 
 ## Introduction
- 
+ This application is built for anyone working in a company who would like to have an easy, accessable directory to view the current staff.
+
+ It allows the user to type in a search for any employee by name, as well as the ability to sort the employees alphebetically according to name or city where they live. 
 
 
 ## Usage 
-In order to run the application, open the server.js file in integrated terminal, run "npm install" to install dependencies, and then run "node server.js".
+In order to run the application, open the server.js file in integrated terminal, run "npm install" to install all dependencies, and then run "npm start" to view the application in development mode on the local server.
 
 ### Screen Shots
-![“”]()
+ ## Gif
 
-![“”]()
+<br>
 
-![“"]()
+ _App Functionality: "Showing data entered in offline mode persisting when the app is brought back online"_
+
+<br>
+
+![“A quick demo of the seach and sort usage of the application"](./public/images/gif/staff_directory.gif)
+
+<br>
 
 
 
