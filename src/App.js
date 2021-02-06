@@ -5,6 +5,7 @@ import Table from "./components/table/table";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
+
 const App = () => {
   return (
     <div className= 'container' >

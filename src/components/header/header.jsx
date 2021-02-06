@@ -7,8 +7,8 @@ function Header() {
   return (
     <div className="jumbotron jumbotron-fluid header">
       <div className="container">
-        <h1 className="display-4">Employee Directory</h1>
-        <p className="lead">View All Employees<br></br>Sort Employees alphebetically by First Name<br></br>or search for specific employees by name</p>
+        <h1 className="display-4">CodeCo Staff Directory</h1>
+        <p className="lead">Search for a Staff Member by First or Last Name<br></br>Or Sort Staff Alphebetically<br></br></p>
       </div>
     </div>
   )

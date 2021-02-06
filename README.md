@@ -58,7 +58,9 @@ In order to run the application, open the server.js file in integrated terminal,
 
 * CSS
 
-* 
+* HTML
+
+* NodeJS
 
 	
 
@@ -66,7 +68,8 @@ In order to run the application, open the server.js file in integrated terminal,
 
 
 ## Project Challenges
-*   
+*   The most challenging component of the project for me was working out
+the interactions between the many files 
 
 
 ## Credits

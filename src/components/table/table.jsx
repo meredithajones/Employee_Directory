@@ -5,6 +5,8 @@ import API from "../../utils/API";
 import Data from "./data";
 import SearchBtn from "../search/button";
 
+
+
 //Set up the table state
 class Table extends React.Component {
     state = {
@@ -72,7 +74,7 @@ class Table extends React.Component {
         };
   
         console.log(this.state.order)
-     const sorting = (a, b) => {
+     const sorting = (a, b, ) => {
         a = a.name.first.toLowerCase();
        b = b.name.first.toLowerCase();
       
