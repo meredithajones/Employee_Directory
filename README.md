@@ -73,6 +73,10 @@ In order to run the application, open the server.js file in integrated terminal,
 
 * NodeJS
 
+* [Random User Generator API](https://randomuser.me/)
+
+* Font Awesome 
+
 	
 
 </details>
@@ -90,7 +94,7 @@ the interactions between the many files
 * [React Dev Docs: Create React App, Folder Structure](https://create-react-app.dev/docs/folder-structure/) 
 * [Mdn web docs general research](https://developer.mozilla.org/en-US/)
 * [AskBCS bug fixes]
-* [Mdn web docs general research](https://developer.mozilla.org/
+
 
 ## Author
  Meredith Jones
